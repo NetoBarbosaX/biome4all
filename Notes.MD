@@ -5,3 +5,5 @@
 3 - O projeto está estruturado de maneira que haja fácil conexão com a API
 
 4 - Totalmente responsivo 
+
+5 - É necessário ter todas as dependências exigidas pelo VueJS para perfeito funcionamento.
